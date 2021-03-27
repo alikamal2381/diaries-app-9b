@@ -44,4 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-"# diaries-app-9b" 
+"# diaries-app-9b"
+
+### Development
+
+http://raza-diaries-app.surge.sh/
+https://github.com/ahmedraza17260/diaries-app
